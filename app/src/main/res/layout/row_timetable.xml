@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/classNum"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="2"
+            android:fontFamily="casual"
+            android:gravity="center"
+            android:text="2020"
+            android:textSize="15dp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/name_class"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="7"
+            android:fontFamily="@font/nanumgothic"
+            android:text="모바일프로그래밍 (지정희)"
+            android:textColor="#000000"
+            android:textSize="15dp" />
+
+
+        <ToggleButton
+            android:id="@+id/checkBox"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="0.6"
+            android:background="@drawable/checkbtnstyle"
+            android:backgroundTint="@color/colorAccent"
+            android:drawableTint="@color/colorAccent"
+            android:text="@null"
+            android:textOff="@null"
+            android:textOn="@null" />
+
+    </LinearLayout>
+
+</LinearLayout>

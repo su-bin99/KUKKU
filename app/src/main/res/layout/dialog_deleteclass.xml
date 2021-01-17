@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3F3F3"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:fontFamily="@font/nanumgothicbold"
+        android:gravity="left"
+        android:text="과목을 보관함에서 삭제하시겠습니까?"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp" />
+
+</LinearLayout>

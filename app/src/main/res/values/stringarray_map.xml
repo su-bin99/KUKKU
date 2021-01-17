@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="maps">
+        <item>행정관</item>
+        <item>경영관</item>
+        <item>상허연구관</item>
+        <item>교육과학관</item>
+        <item>예술문화관</item>
+
+        <item>언어교육원</item>
+        <item>박물관</item>
+        <item>법학관</item>
+        <item>상허연구관</item>
+        <item>의생명과학연구관</item>
+
+        <item>생명과학관</item>
+        <item>동물생명과학관</item>
+        <item>입학정보관</item>
+        <item>산학협동관</item>
+        <item>수의학관</item>
+
+        <item>새천년관</item>
+        <item>건축관</item>
+        <item>해봉부동산학관</item>
+        <item>인문학관</item>
+        <item>학생회관</item>
+
+        <item>공학관</item>
+        <item>신공학관</item>
+        <item>과학관</item>
+        <item>창의관</item>
+        <item>국제학사</item>
+
+        <item>쿨하우스</item>
+        <item>건대부중</item>
+        <item>건대부고</item>
+        <item>건국대학교병원</item>
+
+
+    </string-array>
+</resources>

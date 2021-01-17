@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="field">
+        <item>이수구분 선택</item>
+        <item>일선</item>
+        <item>심교</item>
+        <item>심교-글로벌인재양성</item>
+        <item>심교-사고력증진</item>
+        <item>심교-학문소양및인성함양</item>
+        <item>기교</item>
+        <item>기교-SW</item>
+        <item>기교-글쓰기</item>
+        <item>기교-외국어</item>
+        <item>기교-인성</item>
+        <item>기교-취창업</item>
+    </string-array>
+    <string-array name="majorField">
+        <item>이수구분 선택</item>
+        <item>전필</item>
+        <item>전선</item>
+        <item>지교</item>
+    </string-array>
+
+</resources>
